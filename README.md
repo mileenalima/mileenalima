@@ -1,7 +1,7 @@
 <h1 align="left">Hi i'm Milena lima 👋!</h1>
 
 ###
-<h6 align="left">💼 I'm a full stack developer, currently working as a chatbot developer at Compass Uol.<br>💬 About me: I like to travel by motorcycle, program, read technical and science fiction books.</h6>
+<h6 align="left">💬 About me: I like to program, read technical and science fiction books.</h6>
 
 ###
 <div align="left">
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   </a>
-  <a href="https://www.instagram.com/venicio.js/" target="_blank">
+  <a href="https://www.instagram.com/mileenalima/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
