@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou Milena Lima 👋!</h1>
+<h1 align="left">Hi, I'm Milena Lima👋!</h1>
 
 
 ###
